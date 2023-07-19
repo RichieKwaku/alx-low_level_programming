@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/**main - Listing natural num belown 10
+/**
+ * main - Entry point
  * of 3 or 5 below 1024
  * Return: 0 (Success)
  */
