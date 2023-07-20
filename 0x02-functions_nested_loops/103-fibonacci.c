@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - finds and prints sunm of even valued terms
  * followed by a new line
  * Return: 0 (Success)
  */
