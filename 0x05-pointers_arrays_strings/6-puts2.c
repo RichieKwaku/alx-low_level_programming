@@ -1,11 +1,13 @@
 #include "main.h"
+
 /**
  * puts2 - prints only one char out of two
  * @str: input
- * Return: print
+ * Return: 0
  */
+
 void puts2(char *str)
-{i
+{
 	int longi = 0;
 	int t = 0;
 	char *y = str;
