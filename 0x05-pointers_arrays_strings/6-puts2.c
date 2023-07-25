@@ -1,11 +1,11 @@
 #include "main.h"
 /**
- * puts - prints only one char out of two
+ * puts2 - prints only one char out of two
  * @str: input
  * Return: print
  */
 void puts2(char *str)
-{
+{i
 	int longi = 0;
 	int t = 0;
 	char *y = str;
@@ -17,7 +17,7 @@ void puts2(char *str)
 		longi++;
 	}
 	t = longi - 1;
-	for (o = 0; 0 <= t; o++)
+	for (o = 0; o <= t; o++)
 	{
 		if (o % 2 == 0)
 		{
