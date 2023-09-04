@@ -3,7 +3,7 @@
 /**
  * create_file - Creates a file.
  * @filename: file
- * @text: A pointer the write a file
+ * @text_content: A pointer the write a file
  * Return: -1
  */
 
