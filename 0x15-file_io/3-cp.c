@@ -44,12 +44,12 @@ void close_file(int fd)
 }
 
 /**
- * main - main
+ * main - main entry point
  * @argc: arguments
  * @argv: array
- * Return 0
+ * Return: 0
  *
- * Description: In case argument count is incorrect - exit code 97.
+ * Description: if you run and the argument count is incorrect - exit code 97.
  * If file_from does not exist or cannot be read - exit code 98.
  * If file_to cannot be created or written to - exit code 99.
  * If file_to or file_from cannot be closed - exit code 100
