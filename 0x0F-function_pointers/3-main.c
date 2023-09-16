@@ -6,7 +6,7 @@
  * main - operationss
  * @argc: argument
  * @argv: array
- * return: 0
+ * Return: 0
  */
 
 int main(int __attribute__((__unused__)) argc, char *argv[])
